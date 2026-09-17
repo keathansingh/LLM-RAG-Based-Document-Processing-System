@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pdfplumber
+python-docx
+numpy
+openai
+reportlab
+langchain
+langchain-community
+langchain-openai

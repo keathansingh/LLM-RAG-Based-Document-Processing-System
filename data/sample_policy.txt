@@ -1,0 +1,40 @@
+**Health Insurance Policy Document - Bajaj Finserv Health**
+
+**Document ID:** POL-2023-BFH-12345
+
+**1. General Terms**
+   1.1. This policy is active from the date of purchase.
+   1.2. The policyholder must be a citizen of India.
+
+**2. Waiting Periods**
+   2.1. A general waiting period of 30 days is applicable for all treatments, except for accidents.
+   2.2. Specific treatments, including joint replacement surgery, have a waiting period of 60 days.
+   2.3. Maternity benefits have a waiting period of 24 months.
+
+**3. Age Limits**
+   3.1. This policy covers individuals from 18 years to 65 years of age.
+   3.2. Children are covered from 91 days old up to 25 years under a family plan.
+
+**4. Coverage Details**
+   4.1. In-patient hospitalization expenses are covered. This includes room rent, nursing expenses, and doctor's fees.
+   4.2. Pre-hospitalization expenses are covered for up to 30 days.
+   4.3. Post-hospitalization expenses are covered for up to 60 days.
+
+**5. Surgical Procedures**
+   5.1. Knee replacement/surgery, hip replacement, and cardiac surgeries are covered.
+   5.2. The maximum payout for knee surgery is limited to 85% of the sum assured or ₹85,000, whichever is lower.
+   5.3. Cosmetic surgery is explicitly excluded unless required due to an accident.
+
+**6. Exclusions**
+   6.1. Pre-existing diseases are not covered for the first 48 months.
+   6.2. Treatments taken outside of India are not covered.
+   6.3. Experimental treatments are not covered.
+
+**7. Network Hospitals**
+   7.1. Cashless facility is available only in network hospitals.
+   7.2. The list of network hospitals is available on our website.
+   7.3. Our network covers all Tier 1 cities (Mumbai, Delhi, Pune, Bangalore, Chennai, Hyderabad, Kolkata) and select Tier 2 cities.
+
+**8. Claims Process**
+   8.1. For cashless claims, pre-authorization must be obtained from the insurer at least 48 hours before planned hospitalization.
+   8.2. For reimbursement claims, all original bills must be submitted within 15 days of discharge.
